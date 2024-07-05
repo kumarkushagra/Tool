@@ -1,0 +1,20 @@
+Upload functionality called UHIDs Short-lited are: ['105312668', '5002611434*', '500261693', '500261698', '500261838', '500261885', '105327774', '500261942', '500262109', '500262097']
+last Batch number: 8, Normal number: 0
+Paths to copy: ['/home/ubuntu/kushagr/dataset/105312668', '/home/ubuntu/kushagr/dataset/5002611434*', '/home/ubuntu/kushagr/dataset/500261693', '/home/ubuntu/kushagr/dataset/500261698', '/home/ubuntu/kushagr/dataset/500261838', '/home/ubuntu/kushagr/dataset/500261885', '/home/ubuntu/kushagr/dataset/105327774', '/home/ubuntu/kushagr/dataset/500261942', '/home/ubuntu/kushagr/dataset/500262109', '/home/ubuntu/kushagr/dataset/500262097']
+Made a Directory to copy Studies into: Contains_Batches/Batch9
+Directory '105312668' successfully copied to 'Contains_Batches/Batch9'
+Directory '/home/ubuntu/kushagr/dataset/5002611434*' does not exist or is not a valid directory
+Directory '/home/ubuntu/kushagr/dataset/500261693' does not exist or is not a valid directory
+Directory '/home/ubuntu/kushagr/dataset/500261698' does not exist or is not a valid directory
+Directory '/home/ubuntu/kushagr/dataset/500261838' does not exist or is not a valid directory
+Directory '/home/ubuntu/kushagr/dataset/500261885' does not exist or is not a valid directory
+Directory '/home/ubuntu/kushagr/dataset/105327774' does not exist or is not a valid directory
+Directory '/home/ubuntu/kushagr/dataset/500261942' does not exist or is not a valid directory
+Directory '/home/ubuntu/kushagr/dataset/500262109' does not exist or is not a valid directory
+Directory '/home/ubuntu/kushagr/dataset/500262097' does not exist or is not a valid directory
+---Batch Creation complete---
+list containing all sub-directories inside the batch provided for upload: ['105312668']
+Series in UHID: >--105312668--< is ['Contains_Batches/Batch9/105312668/20210122/unknown']
+New studies: ['a5ccd135-ac4b5c54-9a41cab2-06306435-c10bf29c', 'a5a5a366-ec6778e7-71bf27d5-48ad3f99-2b0e4533', 'f7ac7690-42402668-a598c665-e3e82e17-55be8884', '52630721-3a4f8d19-f6ceffbb-8610df34-40f40af9', '3cf8a0d4-67b9f6b8-bafba621-056b7552-e9286e4f', '20ab0654-3ca253b1-ae81b7c7-eef0e155-202dc439', '938a555a-a67bd2f0-66e3c62c-0edce9d2-53885caf', 'a50b2e4f-b2bdae0b-2b8ac9c7-fc7f1ba6-55155c6f', '61a349d1-1b4fd969-0f141e15-86eec722-96f4d690', 'ecad0789-a29da0f7-33b4cbff-150e4afb-95d5911a', 'd6bc3e4a-1a6b6009-854d0f1f-ca8f968a-e111f8f6', '2ca4de82-76d072ed-ea43eb23-68b78858-dfe73850', '6cce7933-917d7f9e-99053914-f73b60c6-56bd8fef', '855e5a06-1931fe3c-061f334b-f1208e78-10dd61f8', '77befbdc-0c8f28e2-18a5b1f8-192db075-333a7644', '0155c9ae-f280f289-0fb1da5f-05b4f769-226b1c6d', 'da79b52d-91ece693-c36bfba8-14299097-de5151d1', 'd4bf0702-3d4dc8e0-00a6978e-d7c71002-119f2a1d', '91965a6b-1c9435da-e7f11a5e-1baf335a-d4fc55d0', 'e7cc7ce3-f57178f8-09ccad3e-3cf9ed01-fa5ee970']
+Uploaded study ID: []
+old study IDs: ['a5ccd135-ac4b5c54-9a41cab2-06306435-c10bf29c', 'a5a5a366-ec6778e7-71bf27d5-48ad3f99-2b0e4533', 'f7ac7690-42402668-a598c665-e3e82e17-55be8884', '52630721-3a4f8d19-f6ceffbb-8610df34-40f40af9', '3cf8a0d4-67b9f6b8-bafba621-056b7552-e9286e4f', '20ab0654-3ca253b1-ae81b7c7-eef0e155-202dc439', '938a555a-a67bd2f0-66e3c62c-0edce9d2-53885caf', 'a50b2e4f-b2bdae0b-2b8ac9c7-fc7f1ba6-55155c6f', '61a349d1-1b4fd969-0f141e15-86eec722-96f4d690', 'ecad0789-a29da0f7-33b4cbff-150e4afb-95d5911a', 'd6bc3e4a-1a6b6009-854d0f1f-ca8f968a-e111f8f6', '2ca4de82-76d072ed-ea43eb23-68b78858-dfe73850', '6cce7933-917d7f9e-99053914-f73b60c6-56bd8fef', '855e5a06-1931fe3c-061f334b-f1208e78-10dd61f8', '77befbdc-0c8f28e2-18a5b1f8-192db075-333a7644', '0155c9ae-f280f289-0fb1da5f-05b4f769-226b1c6d', 'da79b52d-91ece693-c36bfba8-14299097-de5151d1', 'd4bf0702-3d4dc8e0-00a6978e-d7c71002-119f2a1d', '91965a6b-1c9435da-e7f11a5e-1baf335a-d4fc55d0', 'e7cc7ce3-f57178f8-09ccad3e-3cf9ed01-fa5ee970']

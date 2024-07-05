@@ -1,0 +1,115 @@
+S No,Patient ID (UHID),Age,Gender,Slice Thickness (in mm),Unnamed: 5,Unnamed: 6,Date of Acquisition,Data Obtained from,Unnamed: 9,Name of Protocol,Name of Manufacture,Features,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Injury Details,Unnamed: 21,Unnamed: 22,Pathology,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Admission GCS,Unnamed: 29,Unnamed: 30,Unnamed: 31,Discharge GCS,Unnamed: 33,Unnamed: 34,Unnamed: 35,Analyst Assessment,Radiologist Diagnosis,Pathology Status,Pathology Study,Bleed Only Status,Bleed Sub-Category,Keyline Pathology,Major abnormality,Bleed,Uploaded,ERROR CODE
+71.0,500261529,71,M,1.0,1.0,0,23-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,0,1,1,0,0,0,0,"Hemorrhage- Contusion in high frontal region,
+Contusion in Anterior temporal region, 
+Contosion in Basifrontal region, 
+Contusion in Sylvian fissure
+Bleed- Posterior horns of lateral ventricle,
+Interpenducular cistern
+Minimal SDH in frontal region,
+SDH in frontal region
+Extra axia in frontal region","Hemorrhage- Contusion: Left high frontal region,
+Contusion: Right Anterior temporal region, 
+Contosion: Right Basifrontal region, 
+Contusion: Left Sylvian fissure
+Bleed- Bilateral lateral ventricle posterior horns,
+SAH: Left frontal region
+SDH: Left frontal region
+Extra axial: Left frontal region
+Midline shift- Right","Hemorrhage- Contusion: Left high frontal region = 26x16x3 mm
+Bleed- Extra axial= 5 mm
+Midline shift= 2.5 mm",1,0,0,0,0,,,,,,,,,,"There is evidence of hemorrahgic contusion in left high frontal region with mild surrounding edema , m/s ~2.6x1.6x3cms in size.
+Few small hemorrhagic contusions seen in right anterior temporal , right basifrontal and around left sylvian fissure.
+Extra axial bleed density is seen in left frontal region with max depth 5mm.
+Bleed density is also seen in posterior horns of bilateral lateral ventricles and interpenducular cistern.
+minimal SAH seen in left frontal region.
+Mass effect in the form of midline shift of 2.5mm to right.
+
+Hemorrhagic contusions, SAH, SDH (along left frontal region) with IVH as descibed.",Abnormal,"edema, hemorrhage, tempor, bleed, ventricle, sah, sdh",Yes,Bleed-Contusion,Midline shift / Bleed-Contusion,Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch10/500261529'
+115.0,500261529,71,M,1.0,1.0,0,24-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,0,0,1,0,0,0,0,"Hemorrhagic- Contusion in high frontal region,
+Contusion in Anterior temporal region, 
+Contusion in Basifrontal,
+Contusion Sylvian fissure.
+Bleed- Extra axial in frontal region,
+posterior horns of lateral ventricles,
+interpenducular cistern.
+SAH in frontal region. 
+SDH in frontal region.
+Midline shift.
+","Hemorrhagic- Contusion: Left high frontal region,
+Contusion: Right  Anterior temporal region, 
+Contusion: Right Basifrontal,
+Contusion: Left Sylvian fissure.
+Bleed- Extra axial: Left frontal region, with max depth 5mm
+posterior horns of bilateral lateral ventricles,
+SAH: Left frontal region. 
+SDH: Left frontal region.
+Midline shift- Right","Hemorrhagic- Contusion: Left high frontal region= 26x16x3 mm
+Midline shift= 2.5 mm
+Bleed- Extra axial= 5mm",1,0,0,0,0,,,,,,,,,,"There is evidence of hemorrahgic contusion in left high frontal region with mild surrounding edema , m/s ~2.6x1.6x3cms in size.
+Few small hemorrhagic contusions seen in right anterior temporal , right basifrontal and around left sylvian fissure.
+Extra axial bleed density is seen in left frontal region with max depth 5mm.
+Bleed density is also seen in posterior horns of bilateral lateral ventricles and interpenducular cistern.
+minimal SAH seen in left frontal region.
+Mass effect in the form of midline shift of 2.5mm to right.
+Hemorrhagic contusions, SAH, SDH (along left frontal region) with IVH as descibed.
+
+Consolidation with lucencies in anterior (RUL) and lateral segment of RML, ? contusion with laceration.
+Hyperdense extrapleural collection with air foci seen in right pleural cavity (along RUL and RML) with evidence of linear hyperdensity seen within the collection which is increased on delayed scan,- hemothorax with active bleed, likely from intercostal arteries.
+Left clavicle, left scapula and bilateral rib fracture as described.",Abnormal,"edema, hemorrhage, tempor, bleed, ventricle, sah, sdh, lacer, rib, fracture",Yes,Bleed-Contusion,Midline shift / Fracture / Bleed-Contusion,Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch10/500261529'
+57.0,500261564,70,M,1.0,1.0,0,23-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,1,1,1,0,0,0,0,"Bleed- SDH in FPT lobe,
+Subfalcine Herniation,
+SAH in frontal, occipital, parietal and temporal lobes,
+Hemorhagic- Contusion in forntal and temporal lobe. 
+Fracture- Cririform plate,
+Anterior wall of maxillary sinus,
+Medial walls of maxillary sinuses,
+Zygomatic bone,
+Floor of orbit,
+Mandible condyle
+Basal cisterns obliterated.
+Midline shift.","Bleed- SDH : Right FPT lobe,
+Subfalcine Herniation,
+SAH: Bilateral frontal amd occipital, 
+SAH: Right parietal and temporal lobes,
+Hemorhagic- Contusion: Bilateral frontal and Bilateral temporal lobe. 
+Fracture- Left Cririform plate,
+Anterior wall of maxillary sinus,
+Medial walls of both maxillary sinuses,
+Right Zygomatic bone,
+Floor of orbit,
+Mandible condyle","Bleed: SDH in FPT Lobe= 16mm
+Midline shift= 16mm",1,0,0,0,0,,,,,,,,,,"* SDH along right fronto-parieto-temporal lobe measuring 1.6 cm in maximum thickness causing midline shift (1.6 cm) and subfalcine herniation.
+* SAH in bilateral frontal, occipital and right parietal and temporal lobes.
+* Multiple intraparenchymal hemorrhagic contusions seen in both frontal and temporal lobes with surrrounding edema. Obliteration of cistern spaces.
+* Fracture of left cribriform plate, anterior wall of right maxillary sinus, medial walls of both maxillary sinuses and right zygomatic bone and floor of right orbit.
+* Fracture of left mandibular condyle.
+* Fracture of right clavicle. Single point fracture of right 2,3,5 ribs and two point fracture of right 4th rib.
+* multifocal areas of consolidations are seen in right lung (lower lobe) likely infective advise repeat COVID Test
+* Partial thrombosis of left subclavian artery is seen (first part),causing ~50%luminal narrowing.",Abnormal,"sdh, lobe, hernias, sah, pariet, tempor, hemorrhage, edema, fracture, sinus, bone, rib, lung",Yes,Bleed-Contusion,Midline shift / Fracture / Bleed-Contusion,Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch10/500261564'
+131.0,500261564,70,M,1.0,1.0,0,24-01-2021 00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,1,1,1,1,0,0,0,0,"Bleed- SDH in FPT lobe with subfalcine herniation,
+SAH in frontal, occipital, parietal, temporal lobes.
+SDH in tentorium.
+Hemorrhage- Contusion in frontal and temporal lobes.
+Fracture- Cribriform plate, 
+anterior wall of maxillary sinus, 
+medial walls of maxillary sinuses, 
+rzygomatic bone,
+floor of orbit,
+mandibular condyle. 
+Midline shift.","Bleed- SDH: Right FPT lobe,
+SAH in bilateral frontal, bilateral occipital,right parietal,right temporal lobes.
+SDH: Right tentorium.
+Hemorrhage- Contusion in both frontal and both temporal lobes.
+Fracture- Left Cribriform plate, 
+anterior wall of right maxillary sinus, 
+medial walls of both maxillary sinuses, 
+right zygomatic bone,
+left mandibular condyle. ",Midline shift= 16 mm,1,0,0,0,0,,,,,,,,,,"* SDH along right fronto-parieto-temporal lobe measuring 1.6 cm in maximum thickness causing midline shift (1.6 cm) and subfalcine herniation.
+* SAH in bilateral frontal, occipital and right parietal and temporal lobes.
+* Multiple intraparenchymal hemorrhagic contusions seen in both frontal and temporal lobes with surrrounding edema. Obliteration of cistern spaces.
+* SDH along right tentorium.
+* Fracture of left cribriform plate, anterior wall of right maxillary sinus, medial walls of both maxillary sinuses and right zygomatic bone and floor of right orbit.
+* Fracture of left mandibular condyle.
+* Fracture of right clavicle. Single point fracture of right 2,3,5 ribs and two point fracture of right 4th rib.
+* multifocal areas of consolidations are seen in right lung (lower lobe) likely infective advise repeat COVID Test
+* Partial thrombosis of left subclavian artery is seen (first part),causing ~50%luminal narrowing.",Abnormal,"sdh, lobe, hernias, sah, pariet, tempor, hemorrhage, edema, fracture, sinus, bone, rib, lung",Yes,Bleed-Contusion,Midline shift / Fracture / Bleed-Contusion,Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch10/500261564'

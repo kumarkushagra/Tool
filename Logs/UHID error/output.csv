@@ -1,0 +1,222 @@
+S No,Patient ID (UHID),Age,Gender,Slice Thickness (in mm),Unnamed: 5,Unnamed: 6,Date of Acquisition,Data Obtained from,Unnamed: 9,Name of Protocol,Name of Manufacture,Features,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Injury Details,Unnamed: 21,Unnamed: 22,Pathology,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Admission GCS,Unnamed: 29,Unnamed: 30,Unnamed: 31,Discharge GCS,Unnamed: 33,Unnamed: 34,Unnamed: 35,Analyst Assessment,Radiologist Diagnosis,Pathology Status,Pathology Study,Bleed Only Status,Bleed Sub-Category,Keyline Pathology,Major abnormality,Bleed,Uploaded,ERROR CODE
+32,5002611434*,60,M,1,1,0,22-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,1,0,1,0,1,0,0,"Contusion- Frontal lobe, Temporal lobe
+Bleed- SDH in Temporal region.
+Fracture- Comminuted in Lateral wall of maxillary sinus, left lateral pterygoid plate ,left lateral orbital wall, left greater& lessser wing of sphenoid bone, squamous temporal bone, left zygomatic arch. 
+Pneumocephalus- Sulcal space (extensive)","Contusion- Left Frontal lobe, Left Temporal lobe
+Bleed- SDH in Left Temporal region.
+Fracture- Left lateral wall of maxillary sinus, 
+left lateral pterygoid plate, 
+left lateral orbital wall, 
+left greater and lesser wing of sphenoid bone, 
+left squamous temporal bone,
+ left zygomatic arch. 
+Pneumocephalus- Bilateral sulcal space",0,1,0,0,0,0,,,,,,,,,,"1.Extensive penumocephalus along bilateral sulcal spaces.
+2.Multiple contusions in left frontal and temporal lobes along with small SDH in left temporal location.
+3.Comminuted fracture lateral wall of left maxillary sinus with hemosinsus,left lateral pterygoid plate ,left lateral orbital wall, left greater& lessser wing of sphenoid bone, squamous temporal bone, left zygomatic arch.",Abnormal,"tempor, lobe, sdh, fracture, sinus, bone",Yes,Bleed-Contusion,Fracture / Bleed-Contusion, Bleed-Contusion,0,0,Invalid Directory
+160,500261693,35,M,1,1,0,25-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,0,0,1,0,0,0,0,"Bleed- Hemorrhagic contusion in High Parietal
+",Bleed- Right,0,1,0,0,0,0,1,0,0,4/5/6 = 15,0,0,0,0,,"LEFT HIGH PATIETAL HEMORRHAGIC CONTUSION
+right high parietal contusion
+L1- ANTERIOR WEDGE COMPRESSION FRACTURE AND L2 RT TP FRCTURE AND RT PEDICLE 
+FRACTURE
+l1 wedge compression fracture with no canal compromise",Abnormal,"hemorrhage, pariet, fracture",Yes,Bleed-Contusion,Fracture / Bleed-Contusion, Bleed-Contusion,0,0,Invalid Directory
+162,500261698,55,M,1,1,0,25-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,1,0,1,0,0,0,0,"Fracture- Orbital Roof, Medial Wall
+Bleed- Intraparenchymal Contusion",Fracture- Right,0,1,0,0,0,0,1,0,0,4/5/6 = 15,0,0,0,0,,"RIGHT ORBITAL ROOF AND MEDIAL WALL FRACTURE WITH UNDERLYING 
+INTRAPARENCHYMAL CONTUSIONS",Abnormal,fracture,Yes,Bleed-Contusion,Fracture / Bleed-Contusion,Bleed-Contusion,0,0,Invalid Directory
+217,500261838,32,M,1,1,0,27-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,1,0,1,0,0,0,0,"Bleed- Hemorrahgic contusion in frontal lobe
+Fracture- Frontal bone","Bleed- Left
+Fracture- Left",0,1,0,0,0,0,,,,4/5/6 = 15,0,0,0,0,,"hemorrhgic contusion in left frontal lobe with frontal bone fracture on left side.
+Hemorrhagic contusion with surrounding perilesional edema is seen in left frontal lobe.",Abnormal,"lobe, bone, fracture, hemorrhage, edema",Yes,Bleed-Contusion,Fracture / Bleed-Contusion,Bleed-Contusion,0,0,Invalid Directory
+223,500261885,4,M,1,1,0,27-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,1,0,1,0,0,0,0,"Bleed- Thin SDH along frontal lobe 
+Bleed- Hemorrhagic contusion in frontal lobe
+Fracture- Frontal bone, nasal bone, nasal septum, roofs and medial walls of orbit and cribriform plates.
+Pneumocephalus","Bleed- Left frontal lobe SDH
+Bleed- Right frontal lobe hemorrhagic contusion
+Fracture- Bilateral frontal bone",0,1,1,1,0,0,,,,4/5/6 = 15,0,0,0,0,,"Comminuted fracture of bilateral frontal bones, nasal bones, nasal septum, roofs and medial walls of bilateral orbit and cribriform plates with pneumocephalus.
+Thin extra-axial bleed (SDH) along left frontal lobe with hemorrhagic contusions in right frontal lobe.",Abnormal,"fracture, bone, bleed, sdh, lobe, hemorrhage",Yes,Bleed-Contusion,Fracture / Bleed-Contusion,Bleed-Contusion,0,0,Invalid Directory
+229,105327774,62,M,1,0,0,27-01-2021 00:00,1,0,01_IRCH_HEAD_Spi,Siemens,1,0,0,1,1,0,0,0,"Calcification- Long falx, frontal gyrus
+Hygroma- Subdural",Calcification- Right frontal gyrus,0,1,0,0,0,0,,,,,,,,,,"Calcification long falx and right frontal gyrus. 
+rt parietal subdural space appears asymmetrically prominent 
+subdural hygroma",Abnormal,"calcification, pariet",Yes,Bleed-Subdural,Bleed-Subdural,Bleed-Subdural,0,0,Invalid Directory
+238,500261942,16,M,1,1,0,28-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,0,0,1,0,0,0,0,"Bleed- Thin SDH
+Bleed- Small Hemorrhagic Contusion",Bleed- Right thin SDH,0,1,0,0,0,0,,,,,,,,,,"RIGHT SIDED THIN SDH, RIGHT SMALL HEMORRHAGIC CONTUSION, BASAL 
+CISTERNS OPEN, NO ME/MLS",Abnormal,"sdh, hemorrhage",Yes,Bleed-Contusion,Bleed-Contusion,Bleed-Contusion,0,0,Invalid Directory
+293,500262109,60,F,1,1,0,29-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,0,0,1,0,0,0,0,"Bleed- Extra axial/SDH along fronto temporal convexity
+Bleed- Extra axial/SDH in parietal region
+",Bleed- Left (both) ,Bleed- 8mm & 6 mm respectively,1,0,0,0,0,,,,,,,,,,"E/O extra-axial bleed along left fronto-temporal convexity measuring 8mm in maximum thickness. Another concavo-convex extra-axial bleed measuring 6mm seen in left parietal region with blood-CSF levels within s/o acute SDH. Acute SDH in left fronto-temporal and left parietal region as described.
+Benign enlargement of subarachnoid spaces in bifrontal region is noted.",Abnormal,"bleed, pariet, sdh",Yes,Bleed-Subarachnoid,Bleed-Subarachnoid,Bleed-Subarachnoid,0,0,Invalid Directory
+302,500262097,48,M,1,1,0,29-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,1,0,1,0,1,1,0,"Bleed- Hemorrhagic contusion with edema in frontal region.
+Bleed- Sulcal SAH in frontal region. 
+Bleed- Thin extra axial in frontal convexity.
+CSF- Hypodense area in basifront and temporal region
+Fracture- Frontal bone","Bleed- Right frontal region contusion
+Bleed- Right frontal SAH 
+Bleed- Right frontal region thin extra axial
+CSF- Right basifront and temporal
+Fracture- Right frontal bone
+","Bleed- Hemorrhagic contusion= 8.7 x 8mm
+Bleed- Extra axial= 37 mm",1,0,,,0,,,,,,,,,,"Comminuted fracture of frontal bone on right side with depressed fracture fragment. 
+Surgical bony defect measuring 3.7cm also noted in right parietal calvaria.
+Few haemorrhagic contusions with perilesional edema are seen in right frontal region, largest 8.7x8mm. 
+Focal sulcal SAh also noted in the same region. Thin rim of extra-axial bleed measuring 3mm is seen along right frontal convexity.
+Ill defined hypodense area of near CSF attenuation seen in right basifrontal and temporal region involving both gray and white matter with ex-vacuo dilation of 
+frontal horn of right lateral ventricle s/o glio-encephalomalacia.
+Few haemorrhagic contusions, extra-axial bleed and focal SAH in right frontal region with depressed comminuted fracture of right frontal bone. as described.
+area of glioencephalomalacia in right basifrontal and right temporal region.",Abnormal,"fracture, bone, pariet, haemorrhag, edema, focal, sah, bleed, tempor, ventricle",Yes,Bleed-Contusion,Fracture / Bleed-Contusion,Bleed-Contusion,0,0,Invalid Directory
+23,105312668,69,F,0,0,"2.4, 4.8",22-01-2021 00:00,1,0,MS_AIIMS_HEAD_SEQ,Siemens,1,0,0,1,0,1,0,0,"Hemorrhage- SAH along parieto-occipital region
+SAH along occipital region
+IVH in occipital horns of lateral ventricle
+Hydrocephalus","Hemorrhage- Left parieto-occipital SAH
+Right occipital SAH
+Bilateral lateral ventricle IVH
+",0,1,1,1,0,0,,,,,,,,,,"Focal sulcal hyperdensity s/o subarachnoid haemorrhage seen along left parieto-occipital and right occipital region.
+intraventricular bleed with blood-CSF levels noted in occipital horns of b/l lateral ventricles.
+Focal SAH along left parieto-occipital and right occipital region with IVH as described.
+Prominent ventricles",Abnormal,"focal, haemorrhag, bleed, ventricle, sah",Yes,Bleed-Subarachnoid,Bleed-Subarachnoid,Bleed-Subarachnoid,0,0,[Errno 17] File exists: 'Contains_Batches/Batch9/105312668'
+306,500262016,38,M,1,1,0,29-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,"Contusion in right lung, LUL as well as superior and basal segments of LLLwith minimal pneumothorax on right side and hemo-pneumothorax on left side with b/l drain in situ.Single point fracture of 1,8, 9 rib and three point fractre of 2, 3, 4, 5, 6,7 rib on right side.
+Extensive subcutaneous emphysema on right side of torso (including right scrotal sac), minimal on left side with pneumoperitoneum and pneumo-retroperitoneum including right perirenal space.
+Grade 3 liver injury with moderate hemoperitoneum. 
+No brain related injury",Abnormal,"lung, fracture, rib, injury, brain",Yes,Bleed-Contusion,Fracture / Bleed-Contusion,Bleed-Contusion,0,0,Invalid Directory
+316,500262226,45,M,1,1,0,30-01-2021 00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,1,0,1,0,1,0,0,"Fracture-Parietal bone,
+Nasal bone
+Hemorrhage- Extradural in parietal lobe
+Contusion- Frontal lobe
+Bleed- SAH in frontal lobe
+Soft tissue density- Sinuses","Fracture-Right Parietal bone,
+Both Nasal bone
+Hemorrhage- Extradural: Right parietal lobe
+Contusion- Right Frontal lobe
+Bleed- SAH: Leftfrontal lobe",Hemorrhage: Extradural= 4mm,1,0,0,0,0,,,,,,,,,,"Fracture line seen in right parietal bone extending from right lambdoid suture posteriorly to temporoparietal suture anteriorly with underlying thin layer of extradural hemorrhage seen along right parietal lobe, max thickness measuring 4mm.
+Contusion in right frontal lobe and SAH in left frontal lobe.
+Fracture of both nasal bones.
+Soft tissue density with mucoperiosteal thickening seen in bilateral maxillary sinus, ethmoid sinus, frontal sinus and sphenoid sinus-?sinusitis/hemosinus
+Accessory ossicle of anterior arch of atlas, basilar invagination, atlanto-axial assimilation and fusion of second and third vertebra seen.",Abnormal,"fracture, pariet, bone, bleed, lobe, sah, sinus, vertebra",Yes,Bleed-Contusion,Fracture / Bleed-Contusion,Bleed-Contusion,0,0,Invalid Directory
+23.0,105312668,69,F,0.0,0.0,"2.4, 4.8",22-01-2021 00:00,1.0,0.0,MS_AIIMS_HEAD_SEQ,Siemens,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,"Hemorrhage- SAH along parieto-occipital region
+SAH along occipital region
+IVH in occipital horns of lateral ventricle
+Hydrocephalus","Hemorrhage- Left parieto-occipital SAH
+Right occipital SAH
+Bilateral lateral ventricle IVH
+",0,1.0,1.0,1.0,0.0,0.0,,,,,,,,,,"Focal sulcal hyperdensity s/o subarachnoid haemorrhage seen along left parieto-occipital and right occipital region.
+intraventricular bleed with blood-CSF levels noted in occipital horns of b/l lateral ventricles.
+Focal SAH along left parieto-occipital and right occipital region with IVH as described.
+Prominent ventricles",Abnormal,"focal, haemorrhag, bleed, ventricle, sah",Yes,Bleed-Subarachnoid,Bleed-Subarachnoid,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch9/105312668'
+375.0,500262267,21,M,1.0,1.0,0,31-01-2021 00:00,1.0,0.0,TC_HeadCSPINERoutineSeq,Siemens,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,"Multiple deep liver lacerations (AAST Grade III liver injury) with hemoperitoneum seen.
+Displaced fracture of mid-shaft of right clavicle with surgical emphysema.
+Pulmonary laceration with surrounding contusions in right lower lobe.
+Undisplaced fracture of left inferior pubic ramus.",Abnormal,"lacer, injury, fracture, lobe",Yes,Bleed-Contusion,Fracture / Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch9/500262267'
+377.0,500262263,35,M,1.0,1.0,0,31-01-2021 00:00,1.0,0.0,TC_HeadCSPINERoutineSeq,Siemens,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,"Facial Fracture- nasal bones, medial wall of orbit, lateral wall of orbit, inferior orbital rim and orbital floor, maxillary sinus, zygomatic bones, pterygoid plates.
+Hemosinus
+Hematoma- Zygomatic and Buccal regions","Fracture- bilateral nasal bones, bilateral zygomatic bones, bilateral pterygoid plates.",0,1.0,0.0,0.0,0.0,0.0,,,,,,,,,,"Multiple facial fractures noted-
+Fracture of bilateral nasal bones, medial wall of orbit (ethmoid bones), lateral wall of orbit, inferior orbital rim and orbital floor, maxillary sinus (anterior wall, medial wall and posterior wall), bilateral zygomatic bones, bilateral pterygoid plates.
+Hemosinus involving bilateral ethmoid sinus, maxillary sinus and sphenoid sinus.
+Air foci with subcutaneous tissue thickening seen over bilateral zygomatic regions and buccal regions- s/o hematoma.
+
+Bilateral Le Fort I, II and III fractures, with multiple other facial fractures as described above.
+Hemosinus involving bilateral ethmoid, maxillary and sphenoid sinus.
+Multifocal consolidation involving bilateral upper lobes with centrilobular nodules and peribronchovascular consolidation seen in bilateral lower lobes. D/d- 1) Active infection in background of aspiration related changes
+2) Fat embolism (less likely as no long bone fracture)
+3) Multiple contusions",Abnormal,"fracture, bone, sinus, hemosinu, hematoma, lobe",Yes,Bleed-Contusion,Fracture / Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch9/500262263'
+382.0,500262254,33,F,1.0,1.0,0,31-01-2021 00:00,1.0,0.0,TC_HeadCSPINERoutineSeq,Siemens,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,"Facial fractures-
+frontal bones, 
+ethmoid bones, medial and lateral walls of both orbits, 
+superior orbital rim, 
+inferior orbital rim, 
+walls of maxillary sinus,
+ zygomatic bone,
+body of maxilla,
+body of mandible.
+Hemosinus.
+Contusion- frontal lobe.
+Hematoma- frontal bone.","Facial fractures-
+Bilateral frontal bones, 
+right superior orbital rim, 
+bilateral inferior orbital rim, 
+right zygomatic bone,
+right body of mandible.
+Contusion- right frontal lobe.
+Hematoma- right frontal bone.",0,1.0,0.0,0.0,0.0,0.0,,,,,,,,,,"Multiple facial fractures with amputation of anterior half of maxilla and right body of mandible.
+Bilateral pneumothorax and pnumomediastinum present. However, no obvious injury seen to oesophagus or larger airways.
+Right sided surgical emphysema in chest.
+Fracture with amputation of right upper limb in upper third of arm.
+Ileo-colic intusussception.
+
+Multiple facial fractures seen-
+Fracture of bilateral frontal bones, ethmoid bones, nasal bones (not seen), medial and lateral walls of both orbits, Right superior orbital rim, bilateral inferior orbital rim, walls of maxillary sinus (medial wall, anterior wall and posterior wall) and right zygomatic bone.
+Fracture and loss of anterior half of body of maxilla with alveolar processes and right half of body of mandible.
+Soft tissue with hyperdense content seen in bilateral maxillary sinus and ethmoid sinus- s/o hemosinus.
+Few contusions with surrounding edema seen in right frontal lobe.
+Hematoma overlying right frontal bone.",Abnormal,"fracture, injury, bone, sinus, hemosinu, edema, lobe, hematoma",Yes,Bleed-Contusion,Fracture / Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch9/500262254'
+455.0,500262560,41,M,1.0,1.0,0,02-02-2021 00:00,1.0,0.0,TC_HeadCSPINERoutineSeq,Siemens,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,"Fracture- nasal bone, orbital roof, and cribriform plate.
+Hemorrhagic contusion- Temporal region
+Calcification- caudate lobe
+","Fracture- bilateral nasal bone, 
+right orbital roof.
+Hemorrhagic contusion- Left Temporal region
+Calcification- Right caudate lobe
+",0,1.0,0.0,0.0,0.0,0.0,,,,,,,,,,"Frature of the bilateral nasal bone, right orbital roof, and cribriform plate with hemosinus.
+Left temporal haemorrhagic contusion seen,with surrounding edema.
+Tiny calcified nodule in right caudate lobe ?calcified granuloma.",Abnormal,"bone, hemosinu, tempor, haemorrhag, edema, lobe, granuloma",Yes,Bleed-Contusion,Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch9/500262560'
+485.0,500262671,35,M,1.0,1.0,0,03-02-2021 00:00,1.0,0.0,TC_HeadCSPINERoutineSeq,Siemens,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,"Oblique Undisplaced Fracture- temporo-parietal bone
+Contusion/ Bleed- SAH in Temporal lobe",Fracture- Left ,0,1.0,0.0,0.0,0.0,0.0,,,,,,,,,,"Oblique undisplaced fracture involving the left temporo-parietal bone, with adjacent temporal lobe showing small haemorrhagic contusion and ? SAH.",Abnormal,"fracture, bone, tempor, lobe, haemorrhag, sah",Yes,Bleed-Contusion,Fracture / Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch9/500262671'
+514.0,500262605,38,M,1.0,1.0,0,03-02-2021 00:00,1.0,0.0,TC_HeadCSPINERoutineSeq,Siemens,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,"Bleed- SAH in frontal and parietal region,
+SDH and Hemorrhage in frontal, parietal, temporal lobe,
+Hemorrhagic contusion in frontal lobe. 
+Transtenorial Herniation ie Midline
+Fracture- lateral and posterior wall of sphenoid sinus","Bleed- SAH in bilateral frontal and left parietal region,
+SDH and Hemorrhage in left frontal,left parietal, left temporal lobe,
+Hemorrhagic contusion in left frontal lobe.
+Fracture-right lateral and posterior wall of sphenoid sinus","Bleed- SDH= 10 mm
+Midline= 11 mm",1.0,0.0,0.0,0.0,0.0,,,,,,,,,,"Bilateral frontal and left parietal SAH is seen.
+SDH along left frontal, parietal and temporal lobe (maximum thickness~10 mm). 
+Hypodense area is seen within the SDH ?active haemorrhage.
+Few haemorrhagic contusions are also seen in left frontal lobe.
+There is midline shift of ~11 mm.
+Elongation of midbrain is seen with evidence of Descending Transtentorial Herniation.
+Fracture of right lateral and posterior wall of sphenoid sinus is seen with hemosinus.",Abnormal,"pariet, sah, sdh, tempor, lobe, haemorrhag, hernias, fracture, sinus, hemosinu",Yes,Bleed-Contusion,Midline shift / Fracture / Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch9/500262605'
+518.0,500262716,38,M,1.0,1.0,0,04-02-2021 00:00,1.0,0.0,TC_HeadCSPINERoutineSeq,Siemens,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,"Bleed- Contusion in high parietal region, parietal lobe, basal ganglia
+SDH in frontal lobe","Bleed- Contusion: bilateral high parietal region,
+ right parietal lobe, 
+right basal ganglia.
+SDH: Right frontal lobe",SDH= 3 mm,1.0,0.0,0.0,0.0,0.0,,,,,,,,,,"Multiple foci of parenchymal contusion seen in the B/L high parietal region, right parietal lobe, right basal ganglia. 
+Thin SDH seen along the right frontal lobe ~ 3mm.
+Right sided mild pneumothorax with ICD insitu.
+Fracture involving the left lamina of D2 vertebra.",Abnormal,"pariet, lobe, ganglion, sdh, fracture, vertebra",Yes,Bleed-Contusion,Fracture / Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch9/500262716'
+543.0,500262715,18,M,1.0,1.0,0,04-02-2021 00:00,1.0,0.0,TC_HeadCSPINERoutineSeq,Siemens,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,"Bleed- Scalp hematoma in high parieto- occipital region.
+Parenchymal contusion in parasagital occipital lobe.","Bleed- Scalp hematoma: Right high parieto occipital,
+Contusion: Right occipital lobe.",0,1.0,0.0,0.0,0.0,0.0,,,,,,,,,,"Scalp hematoma noted in the right high parieto- occipital region.
+Small foci of parenchymal contusion seen in the right parasagital occipital lobe.",Abnormal,"scalp, hematoma, lobe",Yes,Bleed-Contusion,Bleed-Contusion,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch9/500262715'
+544.0,500258924,38,M,1.0,1.0,0,04-02-2021 00:00,1.0,0.0,TC_HeadCSPINERoutineSeq,Siemens,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,"Bleed- Hemorrhagic contusions in frontal and temporal region,
+SDH in frontal ,temporal region 
+SAH in cerebral hemispheres.
+Fracture- Linear in occipital bone
+Midline shift
+Hypodensity
+Hydrocephalus 
+
+
+","Bleed- Hemorrhagic contusions in bilateral frontal and temporal region,
+SDH in b/l frontal ,left temporal region,
+SAH in b/l cerebral hemispheres.
+Midline shift-Left ","Bleed- SDH= 78mm (left frontal)
+Fracture= 8mm.
+Midline shift = 3mm",1.0,0.0,1.0,0.0,0.0,,,,,,,,,,"Multiple hemorrhagic contusions are seen in bilateral frontal and temporal region with extension into the lateral and 4th ventricle.
+SDH in b/l frontal ,left temporal region, along the falx and basal cistern with maximum thickness of 78mm in left frontal region causes partial effacement of lateral and 4th ventricle.
+Linear fracture in occipital bone extending to the occipital condyles with underlying extraaxial bleed of maximum thickness of 8mm.
+Mild sulcal SAH is seen in b/l cerebral hemispheres.
+Midline shift of 3mm is seen towards left side.
+The bony calvarium involving B/L frontoparietal region is absent ( post OP ) with adjacent subdural collection . The right frontal lobe shows large area of illdefined hypodensity ( gliosis ) with foci of hyperdensity within ? Bleed.
+Communicating type of hydrocephalus is seen",Abnormal,"hemorrhage, tempor, ventricle, sdh, effacement, fracture, bone, bleed, sah, cerebr, lobe, hydrocephalus",Yes,Bleed-Subdural,Midline shift / Fracture /Subdural,0.0,0.0,[Errno 17] File exists: 'Contains_Batches/Batch9/500258924'
+670.0,500263159,29,M,1,1,0,07-02-2021 00:00,1.0,0.0,TC_HeadCSPINERoutineSeq,Siemens,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,"Bleed- EDH: parieto-temporal convexity,
+Hemorrhagic contusion: parietal lobe 
+Scalp hematoma: parietal convexity.
+Fracture- parietal bone, temporal bone and greater wing of spenoid bone.
+Midline shift","Bleed- EDH: Left parieto-temporal convexity,
+Hemorrhagic contusion: Right parietal lobe 
+Scalp hematoma: Left parietal convexity.
+Fracture- Left parietal bone, left temporal bone and left greater wing of spenoid bone.
+Midline shift- Right","Bleed- EDH= 20 mm
+Contusion= 5 x 4 mm
+Midline shift= 9 mm",1.0,0.0,0.0,0.0,0.0,,,,,,,,,,"EDH of max seperation 20 mm in left parieto-temporal convexity with few air foci and mass effect causing mid line shift of 9 mm on right side.
+Small hemorrhagic contusion of size 5 x 4 mm in right parietal lobe with minimal perilesional edema.
+Minimal scalp hematoma overlying left parietal cenvexity.
+Fracture of parietal bone on left side reaching till temporal bone and greater wing of sphenoid bone.",Abnormal,"edh, hemorrhage, pariet, lobe, edema, scalp, hematoma, fracture, bone, tempor",Yes,Bleed-Contusion,Fracture / Bleed-Contusion,0,0,[Errno 17] File exists: 'Contains_Batches/Batch12/500263159'
